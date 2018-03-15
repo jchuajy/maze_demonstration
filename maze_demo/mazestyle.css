@@ -1,0 +1,19 @@
+#mazeContainer {
+  text-align: center;
+  padding-top: 20px;
+}
+
+.cellDiv {
+    height: 30px;
+    display: inline-block;
+    width: 30px;
+    border: 2px solid;
+    border-color: white;
+    padding: 0;
+    margin: 0;
+}
+
+.rowContainer {
+    height: 30px;
+
+}
